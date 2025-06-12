@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Vikram Anantha",
+        "image": "assets/teacher-images/vikram-anantha.jpg",
+        "bio": "Class of 2028 at University of Michigan",
+        "description": "This is me.",
+        "classes-taught": ["python"],
+        "roles": {
+            "teacher": {},
+            "management": {
+                "role": "Co-Founder"
+            }
+        }
+    }
+]

@@ -1,0 +1,296 @@
+<!-- Vikram Anantha
+Aug 15 2021
+Remaking the Classes Page
+HELM Learning - Phase 3 -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=0.5" />
+    
+        <title>Our Classes - HELM Learning</title>
+    
+        <link
+          href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap"
+          rel="stylesheet"
+        />
+        <link href="../style.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" type="image/png" href="https://helm-logos.s3.amazonaws.com/helm-icon.png"/>
+      </head>
+
+      <body>
+        <!-- <a href="https://helmlearning.com"><img id='center-top-image' src='https://helm-logos.s3.amazonaws.com/helm-logo-v1.png' width=200px></a> -->
+        <div id="p3top" class="topnav">
+            <a href="javascript:void(0);" class="icon" onclick="showNavBarStaff()">
+              <i class="fa fa-bars"></i>
+            </a>
+            <button onclick="gotofile('../')" class="p3topbutton">Home</button>
+            <button onclick="gotofile('../our-team/')" class="p3topbutton">Our Team</button>
+            <button onclick="gotofile('../our-classes/')" class="p3topbutton active">Our Classes</button>
+            <a id='center-top-image-link' href="https://helmlearning.com"><img id='center-top-image' src='https://helm-logos.s3.amazonaws.com/helm-logo-v1.png'></a>
+            <button onclick="gotofile('../donations/')" class="p3topbutton">Donations</button>
+            <button onclick="gotofile('../contact-us/')" class="p3topbutton">Contact Us</button>
+            <button onclick="gotofile('../testimonials/')" class="p3topbutton">Testimonials</button>
+            
+        </div>
+        <div id='header'>
+            <h1 id="section_headers" style="color:#fff">HELM Learning Classes!</h1>
+            <h2 style='color:#fff; text-align: center;font-size: 30px;'>Learn about our classes below</h2>
+        </div>
+
+        <div id="upcomingclasses">
+            <h1 style="padding-top:80px;padding-bottom: 80px;" id='tobedeleted1'>Loading every class...</h1>
+        </div>
+
+        <div id="all_dem_classes">
+            <h1 style="padding-top:80px;padding-bottom: 80px;" id='tobedeleted2'>Loading every class...</h1>
+        </div>
+
+        <div id="footer">
+          <div class="footer-div" id="copyright">Copyright © Helm Learning - All Rights Reserved.</div>
+          <div class="footer-div"><strong style="font-size: 25px; margin-bottom: 5px;">HELM Learning</strong><br>Helping Everyone Learn More<br>Started in 2020</div>
+          <div class="footer-div">Created by Vikram Anantha</div>
+        </div>
+
+      </body>
+      <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+      <script>
+
+        const url_copyright = 'https://signup.helmlearning.com:5000/api/v1/resources/get_year';
+        const requestcopyright = new XMLHttpRequest();
+        
+        requestcopyright.open('GET', url_copyright)
+        //var taking = new XMLHttpRequest();
+        requestcopyright.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        requestcopyright.onload = function () {
+            var data = JSON.parse(this.response);
+            console.log(data)
+            document.getElementById("copyright").innerHTML = "Copyright © " + data[0] + " Helm Learning - All Rights Reserved."
+        }
+        requestcopyright.send()
+
+          var imagesize = 250;
+          var numcols = 3;
+          
+          // Fetch classes data from local JSON file
+          fetch('../classes.json')
+            .then(response => response.json())
+            .then(data => {
+                console.log(data)
+                document.getElementById("upcomingclasses").removeChild(document.getElementById("tobedeleted1"))
+                
+                // Process current classes from the JSON file
+                if (data.current && data.current.length > 0) {
+                    var sectiondiv = document.createElement("DIV")
+                    
+                    document.getElementById("upcomingclasses").appendChild(sectiondiv)
+                    sectiondiv.style.paddingTop = "30px";
+                    sectiondiv.style.paddingBottom = "30px";
+                    
+                    // HEAD TEXT //
+                    var sectionheader = document.createElement("H1")
+                    sectionheader.innerHTML = "Current Classes Available!";
+                    sectiondiv.id = "current-classes"
+                    sectiondiv.appendChild(sectionheader)
+                    
+                    // CLASS //
+                    var classes = data.current;
+                    console.log("Current classes:", classes)
+                    
+                    for (var j = 0; j < classes.length; j++) {
+                        if (j % numcols == 0) {
+                            var classrow = document.createElement("div")
+                            classrow.id = "classrow_" + (j/numcols)
+                            classrow.setAttribute('class', "teacherrow")
+                            sectiondiv.appendChild(classrow)
+                        }
+                        var classcard = document.createElement("div")
+                        classcard.setAttribute("class", "teachercard")
+                        
+                        var imagediv = document.createElement("div");
+                        imagediv.setAttribute('class', 'imagediv')
+                        var teacher_image = new Image("100%", "100%"); // width, height
+                        teacher_image.src = classes[j]['image'];
+                        teacher_image.classList.add('circle')
+                        imagediv.appendChild(teacher_image)
+                        classcard.appendChild(imagediv)
+
+                        // CLASS TITLE //
+                        var classinfo = document.createElement("H2")
+                        classinfo.setAttribute("class", "teachername")
+                        classinfo.innerHTML = classes[j]['name'];
+                        classcard.appendChild(classinfo)
+
+                        // CLASS TEACHER //
+                        var classinfo = document.createElement("P")
+                        classinfo.setAttribute("class", "teacherinfo")
+                        classinfo.innerHTML = "Taught by " + classes[j]['teacher']
+                        classinfo.innerHTML += "<br>" + classes[j]['dates'];
+                        if (classes[j]['time']) {
+                            classinfo.innerHTML += "<br>" + classes[j]['time']['est'] + " EST<br>" + classes[j]['time']['ist'] + " IST";
+                        }
+                        classcard.appendChild(classinfo)
+
+                        // CLASS DESCRIPTION //
+                        if (classes[j]['description']) {
+                            var descinfo = document.createElement("P")
+                            descinfo.setAttribute("class", "teacherinfo")
+                            descinfo.innerHTML = classes[j]['description'];
+                            descinfo.style.fontSize = "14px";
+                            descinfo.style.marginTop = "10px";
+                            classcard.appendChild(descinfo)
+                        }
+
+                        // CLASS BUTTON //
+                        var classinfo2 = document.createElement("A")
+                        classinfo2.href = classes[j]["signup-link"]
+                        classinfo2.setAttribute("target", "_blank")
+                        
+                        var classinfo = document.createElement("BUTTON")
+                        classinfo.setAttribute("class", "signupbutton")
+                        classinfo.innerHTML = "Find more details and sign up here!";
+                        classinfo2.appendChild(classinfo)
+                        classcard.appendChild(classinfo2)
+
+                        // ADD THAT TO THE DIV
+                        document.getElementById("classrow_" + parseInt(j/numcols)).appendChild(classcard)
+                    }
+                } else {
+                    var none = document.createElement("h1")
+                    none.innerHTML = "No classes are running this week"
+                    var smallernone = document.createElement('h1')
+                    smallernone.style = "font-size: 15px;"
+                    smallernone.innerHTML = "If you would like to teach a class, you can sign up <a href='http://teachers.helmlearning.com/signup'>here</a>."
+                    document.getElementById("upcomingclasses").appendChild(none)
+                    document.getElementById("upcomingclasses").appendChild(smallernone)
+                }
+
+                // Handle the archived classes section
+                document.getElementById("all_dem_classes").removeChild(document.getElementById("tobedeleted2"))
+                
+                // Check if there are archived classes in the local JSON
+                if (data.archived && data.archived.length > 0) {
+                    var sectiondiv = document.createElement("DIV")
+                    
+                    document.getElementById("all_dem_classes").appendChild(sectiondiv)
+                    sectiondiv.style.paddingTop = "30px";
+                    sectiondiv.style.paddingBottom = "30px";
+                    
+                    // HEAD TEXT //
+                    var sectionheader = document.createElement("H1")
+                    sectionheader.innerHTML = "Archived Classes";
+                    sectionheader.style.color = "#5434ab";
+                    sectionheader.style.textAlign = "center";
+                    sectionheader.style.fontSize = "40px";
+                    sectionheader.style.marginBottom = "30px";
+                    sectiondiv.appendChild(sectionheader)
+                    
+                    // Description
+                    var description = document.createElement("P")
+                    description.innerHTML = "These are classes that were previously offered and may be taught again in the future.";
+                    description.style.textAlign = "center";
+                    description.style.fontSize = "18px";
+                    description.style.marginBottom = "40px";
+                    description.style.color = "#666";
+                    sectiondiv.appendChild(description)
+                    
+                    // ARCHIVED CLASSES //
+                    var classes = data.archived;
+                    console.log("Archived classes:", classes)
+                    
+                    for (var j = 0; j < classes.length; j++) {
+                        if (j % numcols == 0) {
+                            var classrow = document.createElement("div")
+                            classrow.id = "archivedclassrow_" + (j/numcols)
+                            classrow.setAttribute('class', "teacherrow")
+                            sectiondiv.appendChild(classrow)
+                        }
+                        var classcard = document.createElement("div")
+                        classcard.setAttribute("class", "teachercard")
+                        
+                        var imagediv = document.createElement("div");
+                        imagediv.setAttribute('class', 'imagediv')
+                        var teacher_image = new Image("100%", "100%"); // width, height
+                        teacher_image.src = classes[j]['image'];
+                        teacher_image.classList.add('circle')
+                        imagediv.appendChild(teacher_image)
+                        classcard.appendChild(imagediv)
+
+                        // CLASS TITLE //
+                        var classinfo = document.createElement("H2")
+                        classinfo.setAttribute("class", "teachername")
+                        classinfo.innerHTML = classes[j]['name'];
+                        classcard.appendChild(classinfo)
+
+                        // CLASS TEACHER //
+                        var classinfo = document.createElement("P")
+                        classinfo.setAttribute("class", "teacherinfo")
+                        classinfo.innerHTML = "Previously taught by " + classes[j]['teacher']
+                        if (classes[j]['dates']) {
+                            classinfo.innerHTML += "<br>Last offered: " + classes[j]['dates'];
+                        }
+                        classcard.appendChild(classinfo)
+
+                        // CLASS DESCRIPTION //
+                        if (classes[j]['description']) {
+                            var descinfo = document.createElement("P")
+                            descinfo.setAttribute("class", "teacherinfo")
+                            descinfo.innerHTML = classes[j]['description'];
+                            descinfo.style.fontSize = "14px";
+                            descinfo.style.marginTop = "10px";
+                            classcard.appendChild(descinfo)
+                        }
+
+                        // STATUS MESSAGE //
+                        var statusinfo = document.createElement("P")
+                        statusinfo.setAttribute("class", "teacherinfo")
+                        statusinfo.innerHTML = "This class is currently archived. Check back later for future offerings!";
+                        statusinfo.style.fontSize = "12px";
+                        statusinfo.style.fontStyle = "italic";
+                        statusinfo.style.color = "#888";
+                        statusinfo.style.marginTop = "10px";
+                        classcard.appendChild(statusinfo)
+
+                        // ADD THAT TO THE DIV
+                        document.getElementById("archivedclassrow_" + parseInt(j/numcols)).appendChild(classcard)
+                    }
+                } else {
+                    var archivedMessage = document.createElement("h1")
+                    archivedMessage.innerHTML = "No archived classes available"
+                    archivedMessage.style = "padding-top:40px;padding-bottom: 40px; color: #666; text-align: center;"
+                    document.getElementById("all_dem_classes").appendChild(archivedMessage)
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching classes data:', error);
+                document.getElementById("upcomingclasses").innerHTML = "<h1>Error loading classes. Please try again later.</h1>";
+            });
+
+          function capitalize(s) {
+            return s.toUpperCase()
+          }
+
+          function gotopage(website) {
+            window.location.href = "https://" + website
+          }
+          function gotofile(website) {
+            window.location.href = website
+          }
+          function gotosuspage(website) {
+            window.location.href = "http://" + website
+          }
+          function showNavBarStaff() {
+            var x = document.getElementById("p3top");
+            if (x.className === "topnav") {
+              x.className += " responsive";
+            } else {
+              x.className = "topnav";
+            }
+          }
+      </script>
+
+
+
+</html>
