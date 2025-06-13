@@ -12,6 +12,19 @@
                 "est": "10:00am - 11:00am",
                 "ist": "7:30pm - 8:30pm"
             }
+        },
+        {
+            "name": "Introduction to Algebra",
+            "short-name": "algebra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png",
+            "teacher": ["Vikram Anantha", "Aru Bagga"],
+            "signup-link": "https://forms.gle/7y1BRzB4NdndN5kLA",
+            "description": "This course is an introduction to Python. Python has been used to create many applications we use today, like Reddit, Spotify, Youtube, and more. This course goes over how to use Python, and will make projects and games at the end using Tkinter like Rock Paper Scissors, Tic Tac Toe, and more.",
+            "dates": "asiudflaidsulaksufndasuanf",
+            "time": {
+                "est": "ahsdfka",
+                "ist": "txt"
+            }
         }
     ],
     "archived": []
