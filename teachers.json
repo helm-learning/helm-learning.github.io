@@ -11,5 +11,18 @@
                 "role": "Co-Founder"
             }
         }
+    },
+    {
+        "name": "Sidharth Anantha",
+        "image": "assets/teacher-images/sidharth-anantha.jpg",
+        "bio": "Class of 2026 at Stanford University",
+        "description": "This is him.",
+        "classes-taught": ["arduino"],
+        "roles": {
+            "teacher": {},
+            "management": {
+                "role": "Co-Founder"
+            }
+        }
     }
 ]
