@@ -1,23 +1,13 @@
 {
     "current": [
         {
-            "name": "Introduction to Python",
-            "short-name": "python",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png",
-            "teacher": ["Vikram Anantha"],
-            "signup-link": "https://forms.gle/7y1BRzB4NdndN5kLA",
-            "description": "This course is an introduction to Python. Python has been used to create many applications we use today, like Reddit, Spotify, Youtube, and more. This course goes over how to use Python, and will make projects and games at the end using Tkinter like Rock Paper Scissors, Tic Tac Toe, and more.",
-            "dates": "Mon-Fri, June 16, 2025 - June 20, 2025",
-            "time": {
-                "est": "10:00am - 11:00am",
-                "ist": "7:30pm - 8:30pm"
-            }
-        },
-        {
             "name": "Introduction to Algebra",
             "short-name": "algebra",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png",
-            "teacher": ["Vikram Anantha", "Aru Bagga"],
+            "teacher": [
+                "Vikram Anantha",
+                "Aru Bagga"
+            ],
             "signup-link": "https://forms.gle/7y1BRzB4NdndN5kLA",
             "description": "This course is an introduction to Python. Python has been used to create many applications we use today, like Reddit, Spotify, Youtube, and more. This course goes over how to use Python, and will make projects and games at the end using Tkinter like Rock Paper Scissors, Tic Tac Toe, and more.",
             "dates": "asiudflaidsulaksufndasuanf",
@@ -27,5 +17,920 @@
             }
         }
     ],
-    "archived": []
+    "archived": [
+        {
+            "name": "Fun & Games with Python",
+            "short-name": "python",
+            "image": "https://helm-class-images.s3.amazonaws.com/python-image.png",
+            "teacher": [
+                "Vikram Anantha"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/82884263265?pwd=TzA1NkhqbFl0ZjlobldJU0VtMEEvQT09",
+            "description": "This course is an introduction to Python. Python has been used to create many applications we use today, like Reddit, Spotify, Youtube, and more. This course goes over how to use Python, and will make projects and games at the end using Tkinter like Rock Paper Scissors, Tic Tac Toe, and more.",
+            "dates": "TBD",
+            "time": {
+                "est": "1:00pm - 2:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Scratch Programming",
+            "short-name": "scratch",
+            "image": "0",
+            "teacher": [
+                "Nora Bulovic"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84327611049?pwd=L0hQM2pPMC9ldmVUdGd0VkhIQ1RtUT09",
+            "description": "Ever wanted to create your own computer games or animations? This class teaches basic programming concepts using MIT’s visual programming language Scratch. Scratch is an online platform built for kids that uses “blocks” of code that can be snapped together to create working programs. If you’ve never programmed before and are interested in getting started, this is the place for you!",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intermediate Algebra and Problem Solving",
+            "short-name": "algebra",
+            "image": "https://helm-class-images.s3.amazonaws.com/algebra-image.png",
+            "teacher": [],
+            "signup-link": "https://us02web.zoom.us/j/85222527934?pwd=M0NManoxTDlNZmt5endiZ1k3Rm8vUT09",
+            "description": "Algebra is an important part of our everyday lives and is essential to succeed in high school. In this class students will get to know about the concepts of algebra and will learn about real numbers, algebraic expressions, equations, and problem-solving and more.",
+            "dates": "TBD",
+            "time": {
+                "est": "9:00am - 10:30am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "A new home: A scientific exploration to find a new world for the human race",
+            "short-name": "a new world",
+            "image": "https://helm-class-images.s3.amazonaws.com/a-new-world-image.png",
+            "teacher": [
+                "Laia Xiao",
+                "Blanca Gilabert López"
+            ],
+            "signup-link": "",
+            "description": "Where would humans live if Earth was no longer suitable for life? In this course, students will have to find an alternative “home” by understanding what life is and its requirements. The purpose of this interdisciplinary project is to raise awareness amongst children about the importance of Earth’s resources while learning different fields (biology, physics and chemistry) in a funny way: letting creativity flow!",
+            "dates": "TBD",
+            "time": {
+                "est": "10:00am - 11:00am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Photography",
+            "short-name": "photography",
+            "image": "https://helm-class-images.s3.amazonaws.com/photography-image.png",
+            "teacher": [
+                "Rachel Camp"
+            ],
+            "signup-link": "",
+            "description": "In this class, students will learn the basics of how to take a good photograph. Everyday, students will learn a new element of composition, and be given an assignment to complete before the next class. Students' work will be shared and discussed during the next class as an opportunity for the students to learn what works and what doesn't. Students will need access to a digital camera or a device with a camera (cell phone is sufficient)",
+            "dates": "TBD",
+            "time": {
+                "est": "12:00pm - 12:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "The Wonders of the Universe",
+            "short-name": "wonders of the universe",
+            "image": "https://helm-class-images.s3.amazonaws.com/wonders-of-the-universe-image.png",
+            "teacher": [
+                "Vighnesh Nagpal"
+            ],
+            "signup-link": "",
+            "description": "This course will cover a variety of interesting phenomena that shape the universe into what we see today. Topics will include dark matter and dark energy, stellar classes, exoplanets, and cosmology.",
+            "dates": "TBD",
+            "time": {
+                "est": "4:00pm - 5:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Scientific Exploration and Experimentation",
+            "short-name": "scientific exploration",
+            "image": "https://helm-class-images.s3.amazonaws.com/scientific-exploration-image.png",
+            "teacher": [
+                "Shruthi Ravichandran"
+            ],
+            "signup-link": "",
+            "description": "What do ISEF winners, global innovators, and Nobel Prize recipients all have in common? A passion for exploration of the world around them and a desire and skillset to understand it more. In this course, we'll explore the world around us from home! We will conduct simple but insightful experiments, while also learning the steps of the scientific method and research skills. The course will emphasize students' interests and all students will pick a small area they are interested in researching/conducting experiments in. The culmination of the class will be short presentations by all the students on their projects.",
+            "dates": "TBD",
+            "time": {
+                "est": "4:30pm - 5:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Neuroscience",
+            "short-name": "neuroscience",
+            "image": "https://helm-class-images.s3.amazonaws.com/neuroscience-image.png",
+            "teacher": [
+                "Ritvik Pulya"
+            ],
+            "signup-link": "",
+            "description": "Have you ever wondered how you're able to move, make decisions, and function properly? In this course, we will explore this question by learning about the nervous system, which essentially serves as the control center for your body, eating up about 20% of your energy! We will also learn about the different divisions of the nervous system and how a 3-5 pound organ controls your world. Then, we will look into different imaging techniques used to view the brain and the pathology of various nervous system disorders.",
+            "dates": "TBD",
+            "time": {
+                "est": "7:30pm - 8:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Microbiology",
+            "short-name": "microbiology",
+            "image": "https://helm-class-images.s3.amazonaws.com/microbiology-image.png",
+            "teacher": [
+                "Jay Iyer"
+            ],
+            "signup-link": "",
+            "description": "Microbiology is a branch of science that deals with microorganisms, and studies fields such as virology, bacteriology, parasitology, and others. In this course, we will learn the foundational principles of microbiology, as well as advanced concepts regarding bacterial and viral infection. At the end of the course, we will learn about how microbiological studies led to CRISPR—a new gene editing tool used to protect us against numerous genetic diseases.  ",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Fun With Arduino and Circuits",
+            "short-name": "arduino",
+            "image": "https://helm-class-images.s3.amazonaws.com/arduino-image.png",
+            "teacher": [
+                "Sidharth Anantha"
+            ],
+            "signup-link": "",
+            "description": "Arduino is a hardware that is used in many devices in our world. Some Arduino-based devices include glasses that help the blind see, and rovers that can autonomously put out fires. In this class, we will learn the basics of Arduinos and circuits, and build cool devices like thermometers and night lights!",
+            "dates": "TBD",
+            "time": {
+                "est": "3:00pm - 4:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Public Speaking",
+            "short-name": "public speaking",
+            "image": "https://helm-class-images.s3.amazonaws.com/public-speaking-image.png",
+            "teacher": [
+                "Rehan Rupawalla"
+            ],
+            "signup-link": "",
+            "description": "Learning How To Speak (for real this time)<br>My class empowers young students to use their voices to express their opinions. Specifically, through voice drills, speaking games, and live performance feedback, it prepares them to articulately engage in classroom discussions and give off-the-cuff impromptu's with no sweat. Moreover, through claim and argument preparation, it also enhances students' ability to think critically and evaluate other perspectives on issues.",
+            "dates": "TBD",
+            "time": {
+                "est": "1:00pm - 2:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Music Theory and Composition",
+            "short-name": "music theory",
+            "image": "https://helm-class-images.s3.amazonaws.com/music-theory-image.png",
+            "teacher": [
+                "Kevin Alexander",
+                "Ananya Singh"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89621670069?pwd=VUJOUm1XQ2o4YVg3TXhLOUEyMlY4Zz09",
+            "description": "Music theory is the breakdown of how music is made and the possibilities of what it can become. Starting with learning how to read music, this class will explore solfege, note values, and time and key signatures. You will be able to use these skills with any piece of music, whether you're writing your own song or learning someone else's. Additionally, this class will introduce you to some free online tools to help you practice these skills, and to start composing your own music.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Geobiology and the History of Life",
+            "short-name": "geobiology",
+            "image": "https://helm-class-images.s3.amazonaws.com/geobiology-image.png",
+            "teacher": [
+                "Evren Arif"
+            ],
+            "signup-link": "",
+            "description": "This course focuses on how life started on a molten earth and prevailed. We will be taken throughout the ages of mass extinctions and recovery of life on earth to see how changes in climate and organisms brought us into the modern day. ",
+            "dates": "TBD",
+            "time": {
+                "est": "1:30pm - 2:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "A (very) Brief History of the World",
+            "short-name": "world history",
+            "image": "https://helm-class-images.s3.amazonaws.com/world-history-image.png",
+            "teacher": [
+                "Yujia Gao"
+            ],
+            "signup-link": "",
+            "description": "This class will take you on a time-traveling journey to learn about events that shaped the world we live in. We will visit all seven continents (yes, Australia and Antartica are included) and how events that happened in each region shaped how the regional cultures. After learning this class, you will be able to have a framework of world history that will help with your future endeavor in the field of history; you will also understand things that exist in our contemporary world better, or at least you will learn how little you understand them.",
+            "dates": "TBD",
+            "time": {
+                "est": "5:00pm - 5:45pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Trigonometry",
+            "short-name": "trig",
+            "image": "https://helm-class-images.s3.amazonaws.com/trig-image.png",
+            "teacher": [
+                "Mor Evron"
+            ],
+            "signup-link": "",
+            "description": "In this course, we will learn the basics of trigonometry, the branch of mathematics which deals with the relationships between the angles and sides of triangles. Trigonometry is essential in many advanced mathematical fields, and a basic understanding can be very beneficial to any aspiring mathematician.<br>Prerequisite: have a basic understanding of functions as well as geometry of triangles and circles (not required but encourage)",
+            "dates": "TBD",
+            "time": {
+                "est": "5:30pm - 6:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Java: A Beginners Guide",
+            "short-name": "java",
+            "image": "https://helm-class-images.s3.amazonaws.com/java-image.png",
+            "teacher": [
+                "Praveen Mogan"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/87276147108?pwd=V1FYYWFKekhDbDJRMFh1c0RhL1BlZz09",
+            "description": "Whether it be performing complex calculations or building an game, Computer Science is an important skill for any student to learn in this digital age. With the onset of smartphones and social media, several companies hire those with experience in the tech industry. This course provides an overview of basic computing concepts, applicable to any job, with a focus on Java.",
+            "dates": "TBD",
+            "time": {
+                "est": "3:00pm - 4:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Chemistry - The Building Blocks of the World",
+            "short-name": "chemistry",
+            "image": "https://helm-class-images.s3.amazonaws.com/chemistry-image.png",
+            "teacher": [
+                "Maanas Gupta"
+            ],
+            "signup-link": "",
+            "description": "Past the naked eye, beyond the microscope lies an entire universe of small atoms, all having different properties from one another. In this class, we will explore what makes each element, how they are unique, and begin to look at how they interact with each other. ",
+            "dates": "TBD",
+            "time": {
+                "est": "1:00pm - 2:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Problem Solving with Prealgebra",
+            "short-name": "prealgebra",
+            "image": "https://helm-class-images.s3.amazonaws.com/prealgebra-image.png",
+            "teacher": [
+                "Derek Gao"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/86167241952?pwd=WFRpM0RCZDd6VDhKeEhieDYwU29UQT09",
+            "description": "In this class, students will learn some basic math concepts in preaglebra, such as  order of operations, exponents, prime/composite numbers, and more. Students will have a lesson on the topic, be shown some example problems, and be given some time to work on some problems themselves. Near the end of class, students may volunteer to present how they solved some of the problems. Three homework problems will be given each class.",
+            "dates": "TBD",
+            "time": {
+                "est": "7:15pm - 8:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Learning about Counting",
+            "short-name": "counting",
+            "image": "https://helm-class-images.s3.amazonaws.com/counting-image.png",
+            "teacher": [
+                "Katerina Lung",
+                "Stephanie Wan"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84955496270?pwd=d1FaNG1nTXJpQU9HbUE0OTB1b1hWUT09",
+            "description": "Counting is a fundamental tool in real life. In this class, you will learn how to apply counting into real life scenarios, and you will learn about permutations, combinations, committee forming, and much more.",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Fractions and Decimals: The 4 Operations",
+            "short-name": "fractions",
+            "image": "https://helm-class-images.s3.amazonaws.com/fractions-image.png",
+            "teacher": [],
+            "signup-link": "",
+            "description": "We use fractions and decimals in our everyday lives, from cooking to running races to playing music. In this class students will learn how to add, subtract, multiply, and divide fractions and decimals. They will learn how to convert decimals to fractions and visa versa. The concepts of common multiples and simplification of fractions will also be introduced in this class.",
+            "dates": "TBD",
+            "time": {
+                "est": "2:00pm - 3:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Ableton Live: An Intro to Digital Music",
+            "short-name": "ableton",
+            "image": "0",
+            "teacher": [
+                "Ricky Kundu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/85669347961?pwd=MnRDZjVueGc2Vnl1dVF4QUFpTE9kQT09",
+            "description": "If you've ever listened to a song, have you ever thought, was it being played live by multiple people, or was it all just one person? While there are many different methods to make music, digital music is one of the ways that you can have different instruments come together all from your own laptop! In this course, students will gain an introduction to a DAW (digital audio workstation) software known as Ableton Live(the same software the pros use), a program where one can make music that has multiple instruments. By the end of the course, the students will learn how to digitally compose their own original music with a free trial version of Ableton Live Suite in a way that is simple, intuitive and fun. No prior experience is required, but having a computer with at least 8 GB of free space is recommended so that Ableton can run smoothly. ",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Big Sister Reading - All classes",
+            "short-name": "bsr",
+            "image": "https://helm-class-images.s3.amazonaws.com/big-sister-reading-23-image.png",
+            "teacher": [
+                "Meera Krishnan",
+                "Sophie Read",
+                "Anika Jha",
+                "Ira Bagga"
+            ],
+            "signup-link": "",
+            "description": "Wizards? Dogs? Mystery? What do you like to read? There are endless   possibilities! Books are their own lands that pull you in and make you feel like you really there! We realize that this may be a hard time for many parents as well as kids. But Big Sister Reading is a place where you can clear your mind of all your troubles, sit down, and just enjoy a good book!",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 11:45am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "How do Scientists come up with Medicines?",
+            "short-name": "medicines",
+            "image": "https://helm-class-images.s3.amazonaws.com/medicines-image.png",
+            "teacher": [
+                "Mukundh Murthy"
+            ],
+            "signup-link": "",
+            "description": "Did you know that the medicines delivered to your doorstep can take more than 10 years to develop? Why does it take this long? In this course, you'll gain a basic understanding of the different stages of drug discovery from target validation to lead optimization and clinical trails. In addition to course material, we'll be running simulations during class such as protein binding visualizations which will show you what it's like to be a drug hunter. ",
+            "dates": "TBD",
+            "time": {
+                "est": "5:30pm - 6:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Debate",
+            "short-name": "debate",
+            "image": "https://helm-class-images.s3.amazonaws.com/debate-image.png",
+            "teacher": [
+                "Christina Li"
+            ],
+            "signup-link": "",
+            "description": "Argumentation skills are valuable, regardless of the context. In this class students will become familiar with the fundamentals of debate. Learn about strategies during cross-examination, impact calculus, and conducting research to formulate your arguments. ",
+            "dates": "TBD",
+            "time": {
+                "est": "3:00pm - 4:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Earth and Space Science: A Preview",
+            "short-name": "earth science",
+            "image": "https://helm-class-images.s3.amazonaws.com/earth-science-image.png",
+            "teacher": [
+                "Hanna Jiang",
+                "Henry Kim"
+            ],
+            "signup-link": "",
+            "description": "The Honors Earth Science classes at Lexington High School can be a pretty difficult class to get through. Myself included, many students during their ninth grade had difficulty in this class. In a span of five days, I will cover some of the major subjects from the Honors Earth Science curriculum in preparation for this class, providing a short but insightful view into the world of Earth Science.",
+            "dates": "TBD",
+            "time": {
+                "est": "11:30am - 12:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Faux Calligraphy",
+            "short-name": "calligraphy",
+            "image": "https://helm-class-images.s3.amazonaws.com/calligraphy-image.png",
+            "teacher": [
+                "Esha Sidhu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89676256867?pwd=YlorQjNzSDRYQVM3UHJOQmwrZHdpdz09",
+            "description": "Want to learn calligraphy, but don't know where to start? Confused why your calligraphy doesn't seem to look as aesthetic as the ones on social media? Looking for a new relaxing and artistic skill to learn over summer? This class is for you! Calligraphy is a unique skill that is both eye-catching and relaxing. In this class, we will be covering faux calligraphy, which will cover the basics to calligraphy, including stroke work, letters, and transitions. Note: students will only need a paper and a pencil; so no need for fancy brush pens for this class!",
+            "dates": "TBD",
+            "time": {
+                "est": "4:00pm - 5:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Journalism 101",
+            "short-name": "journalism",
+            "image": "https://helm-class-images.s3.amazonaws.com/journalism-image.png",
+            "teacher": [
+                "Claire Pak",
+                "Christina Li"
+            ],
+            "signup-link": "",
+            "description": "Want a behind the scenes look of what it takes to be a journalist? This is a course for anyone interested in understanding the mechanics of journalism. Learn about topics including the inverted pyramid, interview strategies, and the life of a story.",
+            "dates": "TBD",
+            "time": {
+                "est": "12:00pm - 1:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "What is Economics?",
+            "short-name": "economics",
+            "image": "https://helm-class-images.s3.amazonaws.com/economics-image.png",
+            "teacher": [
+                "Bryant Xia"
+            ],
+            "signup-link": "",
+            "description": "In this course, we explore a range of economic concepts from how individuals behave in markets to the broad-reaching effects of Congress and the Federal Reserve. Armed with a basic understanding of economics, we will examine many real-world examples of economic forces in action, especially the impacts of this ongoing pandemic and how we have responded so far. ",
+            "dates": "TBD",
+            "time": {
+                "est": "3:30pm - 4:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "History of Mathematics",
+            "short-name": "history of math",
+            "image": "https://helm-class-images.s3.amazonaws.com/history-of-math-image.png",
+            "teacher": [
+                "Nikhil Suresh"
+            ],
+            "signup-link": "",
+            "description": "Where did math originate from and how did it get to where it is today? In this course we will learn all about the development of mathematics through the ages. Starting from as early as the first civilizations to modern theories. We will explore the Millennium Problems who each have a prize of $1 million for solving them, and we will do lots of fun coloring activities. This class is open to all age groups from 8 - 18 and will be very interactive. The class will culminate in a fun and simple project based on the topics learned in the class.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Biology: the Human Body",
+            "short-name": "human biology",
+            "image": "https://helm-class-images.s3.amazonaws.com/human-biology-image.png",
+            "teacher": [
+                "Youngseo Yi"
+            ],
+            "signup-link": "",
+            "description": "If you are preparing for your 7th grade biology class or simply interested in learning about the human body, then this class is for you! We'll be covering the ins and outs of what your body is made of, what it takes to function, and how we interact with our environment as complex and ever-changing organisms. Our journey begins at the molecular level, builds up to the anatomy of a cell, expands on the systems occurring in your body, and ends with how certain overlooked aspects of your life make massive changes to how you live and think about the world around you. Let's learn about the human body together!",
+            "dates": "TBD",
+            "time": {
+                "est": "2:00pm - 3:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Molecular and Cancer Biology",
+            "short-name": "cancer biology",
+            "image": "https://helm-class-images.s3.amazonaws.com/cancer-biology-image.png",
+            "teacher": [
+                "Shruthi Ravichandran",
+                "John Lin"
+            ],
+            "signup-link": "",
+            "description": "Interested in learning about how cancer research is done? In this class, Shruthi and I will be diving into the basics of molecular research and techniques that are common around the lab. In the second half of the class, we will be explaining how these techniques specifically apply to cancer research. If you like science and want to work in a lab in a few years, you should definitely take this class!",
+            "dates": "TBD",
+            "time": {
+                "est": "5:00pm - 6:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Fun with HTML: Intro to Web Development",
+            "short-name": "html",
+            "image": " go to <a href=\"signup.helmlearning.com/page1.html?class=html2\">signup.helmlearning.com/page1.html?class=html2</a>.<br> Remember the internet is your best resource so I will list some of my favorite coding youtubers that hopefully can help you for your next steps:<br><ul><li>Net Ninja",
+            "teacher": [
+                "Abhijith Balagurusamy"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/86801573642?pwd=V21hL1U0NmxHU1FHZFJzbFJnVFJjZz09",
+            "description": "In this class we will learn the basics of HTML and CSS to make cool websites. I will teach you how to make your websites look professional and make them look stunning.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intensive Introduction to Number Theory",
+            "short-name": "number theory",
+            "image": "https://helm-class-images.s3.amazonaws.com/number-theory-image.png",
+            "teacher": [
+                "Tanishi Mishra"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/82410663854?pwd=ZXVWRk54TTdKYXJVYzNDL0FHck4zZz09",
+            "description": "This class will serve as a prerequisite to higher level number theory topics including linear congruences and modular arithmetic. The course will start with an exploration of advancing basic topics such as factorization into competitive level studies through theorems and tricks. It will include practice problems from competitions like HMMT.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Geometry",
+            "short-name": "geometry",
+            "image": "https://helm-class-images.s3.amazonaws.com/geometry-image.png",
+            "teacher": [
+                "Ajay Raina"
+            ],
+            "signup-link": "",
+            "description": "This intro to Geometry class will include the basic concepts of geometry, like area, perimeter, lines, angles, etc. This course will help students connect what they learn to the spaces around them in the real world. It will also help expand the way students think and will help them come up with new problem solving strategies.",
+            "dates": "TBD",
+            "time": {
+                "est": "10:45am - 11:45am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Chess for Beginners",
+            "short-name": "chess",
+            "image": "https://helm-class-images.s3.amazonaws.com/chess-image.png",
+            "teacher": [
+                "Ronak Wakhlu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/82515509170?pwd=YUZ0T21Ua0hUMkYreEZKLzJUSFJhdz09",
+            "description": "This course is for beginners who want to learn Chess. The course will start off with the basic fundamentals of Chess, and gradually go to more advanced strategies. This will be a fun and interactive class with room for plenty of questions. The pace will be adjusted appropriately for the class participants. (In Collaboration with IAL)",
+            "dates": "TBD",
+            "time": {
+                "est": "10:30am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Genetics and Its Effect on Evolution",
+            "short-name": "genetics",
+            "image": "https://helm-class-images.s3.amazonaws.com/genetics-image.png",
+            "teacher": [
+                "Mimansa Bhargava"
+            ],
+            "signup-link": "",
+            "description": "What defines the different traits we see in ourselves when we look at ourselves or others? And how do different species have different? This class will introduce students to genetics and how they shape the way different species have evolved and why every being is different from the other and we will learn and discuss about the different effects genetics has on evolution and natural selection. This class will be a fun way to learn about the history of various species and students will get a chance to apply the skills they learned to realistic problems.",
+            "dates": "TBD",
+            "time": {
+                "est": "3:45pm - 4:45pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "How to think like an Ecologist",
+            "short-name": "ecology",
+            "image": "https://helm-class-images.s3.amazonaws.com/ecology-image.png",
+            "teacher": [
+                "Lilia Chahine"
+            ],
+            "signup-link": "",
+            "description": "This class will take you on a time-traveling journey to learn about events that shaped the world we live in. We will visit all seven continents (yes, Australia and Antartica are included) and how events that happened in each region shaped how the regional cultures. After learning this class, you will be able to have a framework of world history that will help with your future endeavor in the field of history; you will also understand things that exist in our contemporary world better, or at least you will learn how little you understand them.",
+            "dates": "TBD",
+            "time": {
+                "est": "10:00am - 10:30am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to (Developmental) Psychology",
+            "short-name": "psychology",
+            "image": "https://helm-class-images.s3.amazonaws.com/psychology-image.png",
+            "teacher": [
+                "Salma Omar",
+                "Beth Pritchard"
+            ],
+            "signup-link": "",
+            "description": "Why are people the way they are? Are we born the way we are, or do we grow up to be the way we are? What makes us different, but what makes us the same? This class will teach you about a few of the ways that people develop, from a psychological point of view, through the theories of infamous Psychologists and relevant studies.",
+            "dates": "TBD",
+            "time": {
+                "est": "12:00pm - 1:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Mandarin",
+            "short-name": "mandarin",
+            "image": "https://helm-class-images.s3.amazonaws.com/mandarin-image.png",
+            "teacher": [
+                "Claire Pak"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84158713334?pwd=WjhxdW9YV1RUaGtYM1VBZ0NGekNzUT09",
+            "description": "Based on research, learning a second language can help enhance memory and problem solving skills. Whether Mandarin is a primary or secondary language, this course will introduce students on how to read, write and speak in Mandarin. By the end of this course, students will even be able to order their favorite dishes from Chinese restaurants using Mandarin!",
+            "dates": "TBD",
+            "time": {
+                "est": "5:30pm - 6:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Which of you are pineapples?",
+            "short-name": "pineapples",
+            "image": "https://helm-class-images.s3.amazonaws.com/pineapples-image.png",
+            "teacher": [],
+            "signup-link": "https://us02web.zoom.us/j/87581882000?pwd=ZmxveFMxWlVISUkxUm1KTk1rR0tBQT09",
+            "description": "Are you a pineapple? Find out in this class?",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00pm - 11:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Calculus: Limits and their applications",
+            "short-name": "calculus",
+            "image": "https://helm-class-images.s3.amazonaws.com/calculus-image.png",
+            "teacher": [
+                "Daniel Xiang"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/82349619517?pwd=Mno4TXBjNDM2QytFWmNkSnFOY1lCUT09",
+            "description": "In Calculus, a solid understanding of the limit, which is usually taught at the beginning of the course, is absolutely essential to correctly comprehending any material that comes after the first few weeks. Thus this introduction to calculus class is intended to give students a serviceable understanding of Limits, as well as other concepts taught during the first few weeks of a single variable calculus course. This course will dive in depth on Limits and their applications to the rest of calculus, and will instruct students on any prerequisite algebra that is necessary for understanding of the former.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:30pm - 8:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Fun with HTML: Intro to Web Development (Level 2)",
+            "short-name": "html2",
+            "image": "https://helm-class-images.s3.amazonaws.com/html2-image.png",
+            "teacher": [],
+            "signup-link": "",
+            "description": "This class is a continuation for the Fun with HTML class.<br><br><strong>Prerequisite: </strong> Taken Fun with HTML (Level 1) or permission from instructor",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Medical Biotechology",
+            "short-name": "biotech",
+            "image": "https://helm-class-images.s3.amazonaws.com/biotech-image.png",
+            "teacher": [
+                "Joshua Wu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84183896986?pwd=TUZ0aml3Nm9sdVh0WFdXcUlzaEJ6Zz09",
+            "description": "We will learn about the new medical advancements that are arising. We will learn about stem cells, crisper and gene editing, virotherapy, how to revive a non function organ, new and better ways to treat cancer and just for fun, learning about how cloning is possible.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 6:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Biochem",
+            "short-name": "biochem",
+            "image": "https://helm-class-images.s3.amazonaws.com/biochem-image.png",
+            "teacher": [
+                "Aru Bagga"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89690582476?pwd=SE8rV0g3aFJOSWpsRE9VeS9DWHlkZz09",
+            "description": "This class will focus on the subjects of biology and chemistry and how they work together to help your cells function. Additionally, we will talk about concepts that make life possible(polarity, solubility, etc.)",
+            "dates": "TBD",
+            "time": {
+                "est": "12:00pm - 1:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "A Comprehensive Guide to Descriptive Statistics",
+            "short-name": "descriptive stats",
+            "image": "https://helm-class-images.s3.amazonaws.com/descriptive-stats-image.png",
+            "teacher": [
+                "Manish Mogan"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84297891749?pwd=MFRvbnR1OGh3Y0NYZXRWQzlCaU9JUT09",
+            "description": "Statistics plays an essential role in our contemporary society as we are constantly exposed to multitudes of data almost everywhere we go. As such, in this class, we will cover a myriad of methods, formulas, metrics, and calculations that will allow us to draw accurate interpretations from a given set of data in order to assess significance, biases, and correlations. Thus, in this interactive class, students are able to apply statistical concepts, methods, and laws to everyday situations from their own lives. ",
+            "dates": "TBD",
+            "time": {
+                "est": "6:30pm - 8:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "How to eat a Cantelope",
+            "short-name": "cantelope",
+            "image": "https://helm-class-images.s3.amazonaws.com/cantelope-image.png",
+            "teacher": [],
+            "signup-link": "",
+            "description": "This class allows students to learn the fundamentals of the JavaScript programming language. JavaScript is a language that programs the functionality of a website (in other words, it allows a website to react to any changes you make when you view it). We will learn how to print messages to a website, how to organize data into variables and arrays, how to compare, combine, and operate on number and word values, and how to create a website that plays your favorite songs!",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to JavaScript",
+            "short-name": "javascript",
+            "image": "https://helm-class-images.s3.amazonaws.com/javascript-image.png",
+            "teacher": [
+                "Sanjay Sivakumar"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/81100797309?pwd=VlBReVBNVGRLSStzeDVuckdKaEZ4QT09",
+            "description": "This class allows students to learn the fundamentals of the JavaScript programming language. JavaScript is a language that programs the functionality of a website (in other words, it allows a website to react to any changes you make when you view it). We will learn how to print messages to a website, how to organize data into variables and arrays, how to compare, combine, and operate on number and word values, and how to create a website that plays your favorite songs!",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intro to Speech interpretation",
+            "short-name": "speech interpret",
+            "image": "https://helm-class-images.s3.amazonaws.com/speech-interpret-image.png",
+            "teacher": [
+                "Nandini Sharma"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89257062773?pwd=NEZ0V05RcTFvbURnQk9kbVdxMlJlUT09",
+            "description": "In the class, students will learn through interactive activities, editing, direction & detailed feedback how to rehearse & perform a competitive interpretative monologue in Play, Children literature, Dramatic performance, Prose & Poetry reading. The students will understand pacing throughout the piece, Tone variation while playing different characters, creating & maintaining specific face & hand gestures and enunciation.",
+            "dates": "TBD",
+            "time": {
+                "est": "5:00pm - 6:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to PHP (Hypertext Preprocessor)",
+            "short-name": "php",
+            "image": "https://helm-class-images.s3.amazonaws.com/php-image.png",
+            "teacher": [
+                "Pranav Akkaraju"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/85714438922?pwd=WXBITllhNHpEenpoTGlaUlgxNHkzZz09",
+            "description": "This class covers the usefulness of PHP, which also stands for Hypertext Preprocessor, to young developers within the field of computer science. Additionally, the class will also review the syntax of PHP, describring its similarities and differences to other programming languages such as Java, Python, C++, and JavaScript. Finally, this class wil focus on the basics of PHP so students can develop small projects.",
+            "dates": "TBD",
+            "time": {
+                "est": "6:00pm - 7:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Robotics",
+            "short-name": "robotics",
+            "image": "https://helm-class-images.s3.amazonaws.com/robotics-image.png",
+            "teacher": [
+                "Sarah Liu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/88089046839?pwd=Rzl0aFlVOExCRmZFSUR3dG5rTElhZz09",
+            "description": "In the Robotics class, we will learn about the basics or robotics! What are robots? How do they work? How can I get involved in robotics? All of these questions and more will be answered in this course! ",
+            "dates": "TBD",
+            "time": {
+                "est": "9:00am - 9:45am",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Intermediate Scratch",
+            "short-name": "scratch2",
+            "image": "https://helm-class-images.s3.amazonaws.com/scratch2-image.png",
+            "teacher": [
+                "Jaden Leung"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/83299644034?pwd=TWJXU3pRNzNrZkx2NnR5dVlpSW9qQT09",
+            "description": "The class will cover topics such as using variables, broadcasts, repeat-until, repeat-forever, and other built-in blocks. It will also teach building your own blocks using lists, cloning, boolean operations, and even recursion!",
+            "dates": "TBD",
+            "time": {
+                "est": "3:30pm - 5:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Literary Analysis",
+            "short-name": "english literature",
+            "image": "https://helm-class-images.s3.amazonaws.com/english-literature-image.png",
+            "teacher": [
+                "Vivian Wang",
+                "Mahi Mirchandani"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/85610147666?pwd=YzFpMGtSN0dYSTNqTnB5VGMxVk5Wdz09",
+            "description": "Authors often use literary elements to enhance their writing, all of which are vital to understand in order to have a better knowledge of themes, narratives, and characters. In this class, we will learn how to analyze literary devices on a profound level across different forms of stories. Students will develop critical thinking and writing skills that will be crucial in future courses.",
+            "dates": "TBD",
+            "time": {
+                "est": "5:00pm - 6:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": " Intro to USACO",
+            "short-name": "usaco",
+            "image": "https://helm-class-images.s3.amazonaws.com/usaco-image.png",
+            "teacher": [
+                "Cassidy Xu"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/84876760985?pwd=dEhCNTUyYUdYK3hsdXBuckdVbk03QT09",
+            "description": "In this class, we will be introduced to USACO, a free online programming contest. We will learn various algorithms and tactics that are commonly found in USACO problems. By the end of this course, students will be able to apply the methods they learned in this course to problems in the actual contest.",
+            "dates": "TBD",
+            "time": {
+                "est": "2:00pm - 3:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Fun with Hindi Vowels and Consonants!",
+            "short-name": "beginner hindi",
+            "image": "https://helm-class-images.s3.amazonaws.com/beginner-hindi-image.png",
+            "teacher": [
+                "Deeya Khamesra"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/81343810237?pwd=bzJiSytYZlJOdXNlQW5haTRtbytaQT09",
+            "description": "Based on research, learning a second language can help enhance memory and problem solving skills. Hindi is India’s national language and is most widely spoken among Indians. This course will introduce the basic fundamentals of Hindi vowels and consonants.  This class is in partnership with IAL",
+            "dates": "TBD",
+            "time": {
+                "est": "2:00pm - 3:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "AMC 8 Review",
+            "short-name": "amc8",
+            "image": "https://helm-class-images.s3.amazonaws.com/amc8-image.png",
+            "teacher": [
+                "Derek Gao"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/88537440478?pwd=c1g5UVZ6aWpWTGVpMUd1NDFydDFUUT09",
+            "description": "Students will learn about the AMC 8 competition, an exam that takes place every November. It is a 25 question, multiple choice exam open for anyone grades 8 and under. The questions increase in difficulty as students progress, so this class will be going over the last 10 or so questions from AMC 8's from the past 6 years to help students prepare for the competition this coming November.",
+            "dates": "TBD",
+            "time": {
+                "est": "4:45pm - 6:15pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Molecular Biology",
+            "short-name": "cellular biology",
+            "image": "https://helm-class-images.s3.amazonaws.com/cellular-biology-image.png",
+            "teacher": [
+                "Daniel Xiang"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/83949410175?pwd=WGJxaHRMUnRkeU9CQ3lLUlUwWlVzUT09",
+            "description": "All living things are made up of cells. While cells are diverse as life is itself, all cells share some common characteristics, and it is useful to know them. We will go over the structure and function of some common features found within cells, and we will learn about some of the processes which help make cells tick. ",
+            "dates": "TBD",
+            "time": {
+                "est": "6:30pm - 8:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "How to cook minute rice in 58 seconds",
+            "short-name": "microwave",
+            "image": "https://helm-class-images.s3.amazonaws.com/microwave-image.png",
+            "teacher": [],
+            "signup-link": "https://us02web.zoom.us/j/83564377174?pwd=ek15L1VEcWJtOEMyNWZPbWNHS0ttdz09",
+            "description": "",
+            "dates": "TBD",
+            "time": {
+                "est": "10:00pm - 11:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "A World of Neurons",
+            "short-name": "neuron functions",
+            "image": "https://helm-class-images.s3.amazonaws.com/neuron-functions-image.png",
+            "teacher": [
+                "Nandini Sharma"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/86752413706?pwd=Y1NwUGZHWnVtZGZJbkpuVkk1TkloZz09",
+            "description": "The class is the first baby step in fundamentals of Neuroscience. It will explain in detail the concepts of Neurons, electricity, membrane, and resting potential. Through interactive activities students will gain an overall understanding on neurons, their structure ",
+            "dates": "TBD",
+            "time": {
+                "est": "5:00pm - 6:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction to Genetic Diseases and Heredity ",
+            "short-name": "genetic diseases",
+            "image": "https://helm-logos.s3.amazonaws.com/helm-icon.png",
+            "teacher": [
+                "Taili Gao"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89538611266?pwd=RWRvY2xoRE42bEFxcGduVWN1bDJnZz09",
+            "description": "In this class, we will explore the basics of genetic diseases and heredity. We will study different types of genetic diseases and use techniques to predict the infected individual. We will learn to use Punnett square and pedigrees. ",
+            "dates": "TBD",
+            "time": {
+                "est": "11:00am - 12:00pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Thinking about History",
+            "short-name": "thinking about history",
+            "image": "https://helm-class-images.s3.amazonaws.com/thinking-about-history-image.png",
+            "teacher": [
+                "Richard Chen"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/88436897575?pwd=S0YzOElaMGhzRXN5K3FmT3NZZUtYQT09",
+            "description": "All too often, the study of History relegated to memorizing dates and times. For us, in order to be better citizens, we must launch a model of history that not only emphasizes learning facts, but also learning to be critical and questioning of the ideas that others draw from those facts. In this course, we will cover a brief outline of World History spanning roughly 100 years. ",
+            "dates": "TBD",
+            "time": {
+                "est": "7:00pm - 7:30pm",
+                "ist": "TBD"
+            }
+        },
+        {
+            "name": "Introduction To Particle Physics",
+            "short-name": "physics",
+            "image": "https://helm-class-images.s3.amazonaws.com/physics-image.png",
+            "teacher": [
+                "Ayan Nayak"
+            ],
+            "signup-link": "https://us02web.zoom.us/j/89088316144?pwd=ck1wenl4UGNUTnhDeGxvRmlxK2pzZz09",
+            "description": "Introduction To Particle Physics will serve as more of a learning experience than as a supplementary use of knowledge as the class will try to go more in-depth on lesser topics and will not be as expansive as a college or high school physics class. We will go over the simple beginnings of particle physics ideals but also dive into more recent topics such as quarks, the Higgs boson, and one of the most dominant theories/ideas to ever exist in modern-day physics, the standard model. Each class will cover one topic, but will also try to make it as simple and easy to understand as possible for everyone.  ",
+            "dates": "TBD",
+            "time": {
+                "est": "4:00pm - 5:30pm",
+                "ist": "TBD"
+            }
+        }
+    ]
 }

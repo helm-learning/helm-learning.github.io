@@ -157,7 +157,12 @@ HELM Learning - Phase 3 -->
                           var imagediv = document.createElement("div");
                           imagediv.setAttribute('class', 'imagediv')
                           var teacher_image = new Image("100%", "100%"); // width, height
-                          teacher_image.src = "../" +  teachers[i]['image'];
+                          // Check if image URL starts with http/https (web URL) or is local path
+                          if (teachers[i]['image'] && teachers[i]['image'].startsWith('http')) {
+                              teacher_image.src = teachers[i]['image']; // Use web URL directly
+                          } else {
+                              teacher_image.src = "../" + teachers[i]['image']; // Add relative path for local images
+                          }
                           teacher_image.classList.add('circle')
                           imagediv.appendChild(teacher_image)
                           teachercard.appendChild(imagediv)
@@ -222,7 +227,12 @@ HELM Learning - Phase 3 -->
                           var imagediv = document.createElement("div");
                           imagediv.setAttribute('class', 'imagediv')
                           var manager_image = new Image("100%", "100%"); // width, height
-                          manager_image.src = "../" + managers[i]['image'];
+                          // Check if image URL starts with http/https (web URL) or is local path
+                          if (managers[i]['image'] && managers[i]['image'].startsWith('http')) {
+                              manager_image.src = managers[i]['image']; // Use web URL directly
+                          } else {
+                              manager_image.src = "../" + managers[i]['image']; // Add relative path for local images
+                          }
                           manager_image.classList.add('circle')
                           imagediv.appendChild(manager_image)
                           managercard.appendChild(imagediv)
