@@ -381,7 +381,7 @@
     {
         "name": "Salma Omar",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/salma-omar-image.jpeg",
-        "bio": "Student at Green Hills Academy ",
+        "bio": "Student at Green Hills Academy",
         "classes-taught": [
             "psychology"
         ],
@@ -537,7 +537,7 @@
     {
         "name": "Joshua Wu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/joshua-wu-image.jpeg",
-        "bio": " Class of 2023 at Lexington High School",
+        "bio": "Class of 2023 at Lexington High School",
         "classes-taught": [
             "biotech"
         ],
@@ -626,7 +626,7 @@
     {
         "name": "Cassidy Xu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/cassidy-xu-image.jpeg",
-        "bio": " class of 2023 at Lexington High School",
+        "bio": "Class of 2023 at Lexington High School",
         "classes-taught": [
             "usaco"
         ],
@@ -670,7 +670,7 @@
     {
         "name": "Ayan Nayak",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ayan-nayak-image.jpeg",
-        "bio": "Class of 2024 at Acton-Boxborough Regional High School.",
+        "bio": "Class of 2024 at Acton-Boxborough Regional High School",
         "classes-taught": [
             "physics"
         ],
@@ -693,7 +693,7 @@
     {
         "name": "Dr Pracha Eamranond",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/dr-pracha-eamranond-image.jpeg",
-        "bio": "CMO of Doctorpedia ",
+        "bio": "CMO of Doctorpedia",
         "classes-taught": [],
         "roles": {
             "teacher": {},
@@ -705,7 +705,7 @@
     {
         "name": "Prof Sanjay Sarma",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/prof-sanjay-sarma-image.jpeg",
-        "bio": "Co-Founder of Auto-ID Center at MIT, Proffesor at MIT",
+        "bio": "Co-Founder of Auto-ID Center at MIT, Professor at MIT",
         "classes-taught": [],
         "roles": {
             "teacher": {},
