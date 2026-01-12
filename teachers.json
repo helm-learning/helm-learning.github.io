@@ -3,7 +3,6 @@
         "name": "Vikram Anantha",
         "image": "assets/teacher-images/vikram-anantha.jpg",
         "bio": "Class of 2028 at University of Michigan",
-        "description": "Vikram",
         "classes-taught": [
             "python"
         ],
@@ -18,7 +17,6 @@
         "name": "Sidharth Anantha",
         "image": "assets/teacher-images/sidharth-anantha.jpg",
         "bio": "Class of 2026 at Stanford University",
-        "description": "This is him.",
         "classes-taught": [
             "arduino"
         ],
@@ -33,7 +31,6 @@
         "name": "Abhijith Balagurusamy",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/abhijith-balagurusamy-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Abhijith Balagurusamy is of class of 2024 at Lexington High School. Abhi has done several math competitions such as the Math Kangaroo and Math Olympiad and gotten a perfect score in both. He is the captain of a FLL Robotics Team has recently went to states. He also teaches classes at KTBYTE, a computer science academy. Abhi enjoys playing tennis, running a minecraft server, playing video games, developing web applications and creating machine learning models.",
         "classes-taught": [
             "html"
         ],
@@ -45,7 +42,6 @@
         "name": "Jay Iyer",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/jay-iyer-image.jpeg",
         "bio": "Class of 2025 at Harvard University, Class 2021 at Baton Rouge Magnet High School",
-        "description": "Jay Iyer is of class 2021 at Baton Rouge Magnet High School, in Baton Rouge, Louisiana. Iyer is the founder and CEO of his non-profit organization, MIND Relief, where he provides support to caregivers and family members of those suffering from neurodegenerative diseases. He is also a two-time International Science and Engineering Fair (ISEF) finalist, two-time National Science Bowl finalist, and a one-time National Science Olympiad finalist. In addition, he is a student researcher at Louisiana State University, and has extensive research experience in microbiology and chemical biology. Iyer is also a Research Science Institute (RSI) Scholar, and a guitarist. ",
         "classes-taught": [
             "microbiology"
         ],
@@ -57,7 +53,6 @@
         "name": "Shruthi Ravichandran",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/shruthi-ravichandran-image.jpeg",
         "bio": "Class of 2021 at Hathaway Brown School",
-        "description": "Shruthi Ravichandran is of class 2021 at Hathaway Brown School and a 2020 Research Science Institute Scholar. A two time Intel/Regeneron International Science and Engineering Fair finalist, Shruthi is extremely passionate about finding efficient and low-cost engineering-based solutions to global healthcare issues. Her recent research has included creating nanoparticles to create immunity to difficult-to-reach cancers, a phone app for skin cancer detection, and using machine learning to discover and cluster new cancer types and subtypes. Shruthi is also eager to spread her love for STEM to younger students and is the founding president of her school's computer science club, which is now part of the National Computer Science Honors Society.",
         "classes-taught": [
             "scientific exploration",
             "cancer biology"
@@ -70,7 +65,6 @@
         "name": "Bryant Xia",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/bryant-xia-image.jpeg",
         "bio": "Class of 2025 at MIT, Class of 2021 at Lexington High School",
-        "description": " Bryant Xia is of class 2021 attending Lexington High School. Bryant is one of the officers leading the school’s economics club, where he introduces fundamental economics concepts through lectures and simulations. He is a two-time national finalist at the National Economics Challenge (NEC) and won third place at the individual round of the Harvard Pre-Collegiate Economics Challenge (HPEC). Currently, Bryant works as an intern at the Los Angeles Behavioral Economics Lab, run by USC, where he assists in researching inequality and economic mobility. In his spare time, Bryant enjoys playing basketball and writing a blog.",
         "classes-taught": [
             "economics"
         ],
@@ -82,7 +76,6 @@
         "name": "Rachel Camp",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/rachel-camp-image.jpeg",
         "bio": "Class of 2020 at Lexington High School",
-        "description": "Rachel Camp is of class 2020 at Lexington High School, in Lexington MA. Next year, she will be attending Bard College for Photography and Art History. During high school, Rachel has taken almost every art class offered, and was a teachers assistant in the Intro to Photography class. She currently works at the Harvard Museum of Natural History, and was formerly an intern at Munroe Center for the Arts and Howlingbird Screenprinting Studio. She has also been the official photographer at museum events, concerts, and lectures.",
         "classes-taught": [
             "photography"
         ],
@@ -94,7 +87,6 @@
         "name": "Vighnesh Nagpal",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/vighnesh-nagpal-image.jpeg",
         "bio": "Class of 2020 at Lexington High School",
-        "description": "Vighnesh Nagpal is of class 2020 at Lexington High School, in Lexington, Massachusetts. His main interests lie in exoplanet research, as part of which he is a developer of orbitize! , a python package for the orbit fitting of exoplanets using radial velocity and astrometric measurements. Together with researchers at Caltech, he is working to better characterize the orbital properties of stellar companions. In the fall, he will start as a freshman at UC Berkeley hoping to major in Physics and Astrophysics.",
         "classes-taught": [
             "wonders of the universe"
         ],
@@ -106,7 +98,6 @@
         "name": "Laia Xiao",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/laia-xiao-image.jpeg",
         "bio": "Class of 2021 from Vilafranca del Penedès",
-        "description": "I am Laia Xiao, class of 2022 from Vilafranca del Penedès, a town near Barcelona, Spain. My fields of interest are physics, engineering and chemistry. Apart from science, I am a music lover and a cinephile. I also truly enjoy gardening. In addition, I am a 2020 Research Science Institute Scholar (RSI).",
         "classes-taught": [
             "a new world"
         ],
@@ -118,7 +109,6 @@
         "name": "Blanca Gilabert López",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/blanca-gilabert-lópez-image.jpeg",
         "bio": "Class of 2021",
-        "description": "I am Blanca, a student from Spain. I am really excited to be part of this project, as I love research and educational labours! My fields of interest are physics, astronomy, engineering and maths. I also have a focus on literature and art, I find with them wonderful ways to spread my mind. I am willing to help, so don’t hesitate to ask for help! Best wishes! In addition, I am a 2020 Research Science Institute Scholar (RSI).",
         "classes-taught": [
             "a new world"
         ],
@@ -130,7 +120,6 @@
         "name": "Daniel Xiang",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/daniel-xiang-image.jpeg",
         "bio": "Class of 2021",
-        "description": "Hello, I am Daniel Xiang, but you all can call me Danny or Daniel. My academic interests are primarily in STEM, including biology, chemistry, and mathematics, but also world history. I express my academic interests in extracurricular competitive events, such as Science Bowl, Quiz Bowl, and USABO. Besides academics, my personal interests include the arts, such as drawing, painting, and playing piano. I personally enjoy sandbox video games such as Minecraft which emphasize the act of creating in a virtual space.",
         "classes-taught": [
             "cellular biology",
             "calculus"
@@ -143,7 +132,6 @@
         "name": "Nora Bulovic",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/nora-bulovic-image.jpeg",
         "bio": "Class 2021 at Lexington High School",
-        "description": "Nora Bulovic is of class 2021 at Lexington High School in Massachusetts. She is passionate about computer science and engineering and is on Lexington High School's all-girls robotics team the Parity Bits. She has experience teaching kids about STEM through coaching a team of middle school students for the 2019 First Lego League competition and volunteering at Clarke Middle School's Scratch Club to help teach beginner programming. Outside of academics, she enjoys rock climbing on her competitive climbing team and hiking.",
         "classes-taught": [
             "scratch"
         ],
@@ -155,7 +143,6 @@
         "name": "John Lin",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/john-lin-image.jpeg",
         "bio": "Class 2021 at Boston Latin School",
-        "description": "John Lin is a of class 2021 at Boston Latin School and a 2020 Research Science Institute (RSI) scholar. He is two-time International Science and Engineering Fair (ISEF) finalist and won 4th prize in microbiology in 2019. His research is focused around harnessing the oral microbiome to develop more specific, effective and accessible treatments for caries. As the Editor-in-Chief of his school science magazine and captain of his Science Team, he is especially passionate about expanding access to STEM education through teaching and science journalism. Outside of science, John enjoys to cook, garden and run.",
         "classes-taught": [
             "cancer biology"
         ],
@@ -167,7 +154,6 @@
         "name": "Anshita Saini",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/anshita-saini-image.jpeg",
         "bio": "Class 2021 at Interlake High School",
-        "description": "Anshita Saini is of class 2021 at Interlake High School in Bellevue, Washington. She is a singer, dancer, and researcher at the UW Ubiquitous Computing Lab, where she is co-authoring a research paper on a novel sonar sensing project to improve upon existing activity trackers that are prohibitively expensive or inadequate. She has also conducted individual research on classifying Indian music patterns with neural networks and is excited to begin conducting astrophysics research this summer. One of her passions is connecting with her community by introducing coding to students from historically underrepresented backgrounds with an interdisciplinary art-based approach as Vice President of She Codes Art.",
         "classes-taught": [],
         "roles": {
             "teacher": {}
@@ -177,7 +163,6 @@
         "name": "Nikhil Suresh",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/nikhil-suresh-image.jpeg",
         "bio": "Class of 2021 at Basis Scottsdale",
-        "description": "Hi! My name is Nikhil Suresh and I am in the class of 2021 at Basis Scottsdale, in Scottsdale, Arizona. My main interests are in mathematics, materials science, and physics. I was a grand prize award recipient at the Intel International Science and Engineering Fair (ISEF) in 2019, a 2020 Research Science Institute (RSI) Scholar, and a counselor at the prestigious Ross Mathematics Program. I currently research low-volume blood diagnostics and semiconductor bonding at Arizona State University. Having taught all levels of mathematics from pre-algebra to Category Theory, I am excited to be teaching math courses at Helm Learning and I look forward to meeting all of you!",
         "classes-taught": [
             "history of math"
         ],
@@ -189,7 +174,6 @@
         "name": "Ritvik Pulya",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ritvik-pulya-image.jpeg",
         "bio": "Class of 2021 at Acton-Boxborough Regional High School",
-        "description": "Ritvik Pulya is of class of 2021 at Acton-Boxborough Regional High School, in Acton, Massachusetts. Ritvik is the CEO of Stadium Ways, an app that redirects customers to the shortest lines in sports stadiums. Ritvik's areas of interest include neuroscience and image-guided therapy. He currently works as an intern at Brigham and Women's Hospital, where he uses deep learning techniques for surgical applications. In his spare time, Ritvik enjoys playing chess and is a Carnatic musician.",
         "classes-taught": [
             "neuroscience"
         ],
@@ -201,7 +185,6 @@
         "name": "Christina Li",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/christina-li-image.jpeg",
         "bio": "Class of 2025 at Harvard University and Class of 2021 at Lexington High School",
-        "description": "Christina Li is of class 2021 at Lexington High School in Lexington, Massachusetts. She is a Lincoln-Douglas Debater on her school's debate team and serves on the editorial board of both her school's newspaper and social and political review. She has previously interned for The Harvard Crimson, the the nation's oldest continuously published daily college newspaper, and is excited to work with younger kids interested in journalism!",
         "classes-taught": [
             "debate",
             "journalism"
@@ -214,7 +197,6 @@
         "name": "Rehan Rupawalla",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/rehan-rupawalla-image.jpeg",
         "bio": "Class 2021 at Obra D. Tompkins High School",
-        "description": "My name is Rehan Rupawalla and I am of class 2021 at Obra D. Tompkins High School in Katy, Texas. As a student I have been deeply involved in social advocacy and political communication. For the past two years, I have run a drug rehabilitation awareness project in my community with the Drug Enforcement Agency that has increased drug rehab accessibility. Moreover, as a public speaker I have consistently ranked as one of the top handful in the nation and top two in Texas in my speech event (I placed top 14 at NSDA Nationals and have placed high in elimination rounds at Harvard/Blue Key/Sunvite/Glenbrooks national tournaments). I am also my school debate president and a coach at the Katy Speech & Debate Academy where I share my passion for constructive discourse with younger students. Outside of school, I love soccer (played competitively 9 years) and everything outdoorsy. ",
         "classes-taught": [
             "public speaking"
         ],
@@ -226,7 +208,6 @@
         "name": "Evren Arif",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/evren-arif-image.jpeg",
         "bio": "Class 2021 at Lexington High School",
-        "description": "I am of class 2021 at Lexington High School in Massachusetts. My passion centers on the topics of evolution, paleobiology and geobiology. Being able to share evolutionary concepts with younger students and discussing knowledge about the path from primordial conditions to humans – how we got to the place we are today – inspires me. I was admitted to the Yale Young Global Scholars (YYGS) program in Biological and Biomedical Sciences for summer 2020. Last summer I worked in the research lab of Dr. Erik Dopman at Tufts University to understand the genetic relationship between circadian and circannual rhythms in moths. I was also a Boston University School of Medicine ‘CityLab’ Scholar from 2018-19. I am an avid reader of history, especially of cross cultural connections throughout ancient and modern history. In my free time, I like to play classical piano and work on orchestral composition.",
         "classes-taught": [
             "geobiology"
         ],
@@ -238,7 +219,6 @@
         "name": "Maanas Gupta",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/maanas-gupta-image.jpeg",
         "bio": "Class of 2024 at UT Austin",
-        "description": "Maanas Gupta is an incoming Biomedical Engineer Student at the UT Austin. There he wants to delve deeper into tissue engineering through course electives and research as he prepares for his journey into medical school. Over the past year he has worked alongside DayZero Diagnostics as they attempt to modernize the diagnosis and treatment of antibacterial infections. Outside of academics, you can find him on the bike trails, hiking in national parks, practicing in the pool or on a volleyball court.",
         "classes-taught": [
             "chemistry"
         ],
@@ -250,7 +230,6 @@
         "name": "Savitha Srinivasan",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/savitha-srinivasan-image.jpeg",
         "bio": "Class of 2020 at Interlake High School",
-        "description": "Savitha Srinivasan is of class of 2020 at Interlake High School in Bellevue, Washington. She is a researcher, dancer, and STEAMnist, passionate about driving social change through art & tech. She enjoys conducting CS research to tackle biomedical challenges; most recently, she worked on developing machine learning techniques to improve cancer blockade therapy at the Harvard Medical School as a 2019 Research Science Institute Scholar. She is a 2020 Coca-Cola Scholar, 2020 Regeneron STS Scholar, and Intel ISEF 2nd Place winner. Savitha also loves working with youth in her community to address educational disparity. She is the Founder & President of Art You, a 501(c)3 global non profit that promotes arts education and awareness reaching 5000+ youth and She Codes Art, an international non profit that empowers underrepresented minorities in STEM/CS through art.",
         "classes-taught": [],
         "roles": {
             "teacher": {}
@@ -260,7 +239,6 @@
         "name": "Esha Sidhu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/esha-sidhu-image.jpeg",
         "bio": "Class 2021 at BASIS Scottsdale",
-        "description": "Hello, everyone! My name is Esha Sidhu, and I am currently of class 2021 at BASIS Scottsdale in Scottsdale, Arizona. My interests lie in STEM and art, as well as helping others. I have been teaching calligraphy for two years in a school club that I founded, and have been doing calligraphy for nearly four years. I am super passionate about calligraphy, and I love to give back to the community with my work, which I have accomplished through donating my handmade calligraphy cards to my school, as well as local hospitals and hospices. I am so glad to continue giving back to the community with this online calligraphy class, and I look forward to seeing everyone!",
         "classes-taught": [
             "calligraphy"
         ],
@@ -271,8 +249,7 @@
     {
         "name": "Aru Bagga",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/aru-bagga-image.jpeg",
-        "bio": "Class 2023 at Lexington High School",
-        "description": "Aru Bagga is of class 2023 at Lexington High School and moved to Massachusetts just last year. He is very interested in the fields of chemistry and biology and would like to pursue them later on in life. In addition, he plays and teaches tennis at a local club and loves to hang out with family and friends. ",
+        "bio": "Class of 2027 at John Hopkins, Class 2023 at Lexington High School",
         "classes-taught": [
             "biochem"
         ],
@@ -284,7 +261,6 @@
         "name": "Mukundh Murthy",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mukundh-murthy-image.jpeg",
         "bio": "Class of 2021",
-        "description": "I'm of class of 2021, passionate about shortening the drug discovery pipeline through new applications of artificial intelligence and a heightened level of understanding of systems biology. I've built ML projects in generative drug design for COVID-19 and am currently interning at a Canadian drug discovery company, using reinforcement learning to improve the synthesizability of small molecules generated by machine learning models. In my free time, I enjoy reading books on personal growth and pondering over abstract topics like consciousness and the nature of reality. ",
         "classes-taught": [
             "medicines"
         ],
@@ -296,7 +272,6 @@
         "name": "Mor Evron",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mor-evron-image.jpeg",
         "bio": "Class of 2022 at Lexington High School",
-        "description": "Mor Evron is of class of 2022 at Lexington High School in Massachusetts. He is passionate about the subjects of chemistry and mathematics and believes that educating younger students can be a way to both deepen his own understanding of a topic as well as give back to a community. In school, he volunteers as part of the district's peer prevention program, which aims to cut drug use in students, and sings a capella.",
         "classes-taught": [
             "trig"
         ],
@@ -308,7 +283,6 @@
         "name": "Youngseo Yi",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/youngseo-yi-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "Hi there! My name is Youngseo, and I was born in Maryland but grew up in Lexington, Massachusetts. I'm interested, chemistry, biology, and child development/cognitive science. I am currently an intern at the Museum of Science working under the Living Laboratory program and have previously researched cost-effective and efficient methods of biosensing through the usage of polystyrene microparticles. I teach and practice Taekwondo (a Korean martial art) during my free time. ",
         "classes-taught": [
             "human biology"
         ],
@@ -320,7 +294,6 @@
         "name": "Hanna Jiang",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/hanna-jiang-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "Hanna Jiang is of class of 2021 at Lexington High School in Massachusetts. Her special talents include maneuvering over the 100m hurdles, reciting the alphabet backwards in under 30 seconds, and other practical skills. She wants to share her love of science and history with anyone willing to listen.",
         "classes-taught": [
             "earth science"
         ],
@@ -332,7 +305,6 @@
         "name": "Praveen Mogan",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/praveen-mogan-image.jpeg",
         "bio": "Class of 2021 at Obra D. Tompkins High School",
-        "description": "My name is Praveen Mogan, and I am currently in the class of 2021 at Obra D. Tompkins High School. As an avid programmer, I have been deeply invested in learning new programming languages, which include Java and Python. More recently, I have begun researching and creating machine learning programs using Python libraries. Throughout high school, I have had a deep passion for learning more about technology and its applications in our daily lives. I have been the TSA treasurer for our school’s chapter the past 3 years and have several awards in competitions such as 3d printing, CAD design, coding, and more at the state and regional levels. Outside of school, I have been deeply invested in learning the Tamil language and have won several regional awards in speaking, writing, and translation competitions.",
         "classes-taught": [
             "java"
         ],
@@ -344,7 +316,6 @@
         "name": "Henry Kim",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/henry-kim-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "My name is Henry Kim, and I am in the class of 2021 at Lexington High School. I like to dabble in Earth Science and Math and have become a finalist for the United States Earth Science Olympiad as well as getting a 5 on the AP Environmental Science Test. Though my primary subject of interest within Earth Science is in Astronomy, I know the Honors Earth Science curriculum pretty well, and I look forward to teaching a class that is in essence a preview of 9th grade.",
         "classes-taught": [
             "earth science"
         ],
@@ -356,7 +327,6 @@
         "name": "Yujia Gao",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/yujia-gao-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "I have a passion for history and all humanities subjects-- I'm interested in everything involving groups of humans. I have studied American history and modern world history (1919 and onward) extensively, and I hope to provide my students multiple perspectives on every historical figure and event. I'm the founder of history club; intern of a nonprofit organization that works between Mali and the US; I also founded and presided a political activism organization in 2019. I enjoy translating history books and documents in my free time.",
         "classes-taught": [
             "world history"
         ],
@@ -368,7 +338,6 @@
         "name": "Lilia Chahine",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/lilia-chahine-image.jpeg",
         "bio": "Class of 2021",
-        "description": "My field of interest is Ecology, and environmental sciences. I am also a writer. I am passionate about learning how the environment flourishes, and finding ways to protect it. ",
         "classes-taught": [
             "ecology"
         ],
@@ -380,7 +349,6 @@
         "name": "Meera Krishnan",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/meera-krishnan-image.jpeg",
         "bio": "Class of 2026 at Jonas Clarke Middle School, Lexington High School",
-        "description": "Hi! My name is Meera Krishnan. I am of Class of 2026 at Jonas Clarke Middle School, Lexington High School from Lexington, Massachusetts. I am also the creator of Big Sister Reading, an online site to promote reading proficiency in young kids in a fun and friendly environment. For the past few months, it has been really hard for many. Stuck at home, working moms and dads, kids driving everyone crazy (including me sometimes!). And then my idea was born. I will volunteer my time to read books to kids! Two of my favorite books are, The Twits and The Trumpet of the Swan. Additionally, I love making films, playing soccer, swimming, and biking.",
         "classes-taught": [
             "bsr"
         ],
@@ -392,7 +360,6 @@
         "name": "Sophie Read",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/sophie-read-image.jpeg",
         "bio": "Class of 2026 at Jonas Clarke Middle School, Lexington High School",
-        "description": "Hi! My name is Sophie Read. I am of Class of 2026 at Jonas Clarke Middle School, Lexington High School in Lexington, Massachusetts. I am currently deeply interested in finding ways to help the environment and all people and animals on it. In my free time I enjoy swimming, soccer and reading books. My favorite books are Refugee By Alan Gratz and Little Woman by Louisa  M. Alcott. ",
         "classes-taught": [
             "bsr"
         ],
@@ -404,7 +371,6 @@
         "name": "Kevin Alexander",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/kevin-alexander-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "Hello! My name is Kevin Alexander. I am in the class of 2021 at Lexington High School. I am deeply interested in science and music. My main instrument is piano, having played it for ten or so years now, but I have also played violin in the past and know the basics of guitar. I am experienced in multiple genres of music, ranging from jazz to classical music, and know a respectable amount of music theory from the AP course. I am excited to share my knowledge through my classes!",
         "classes-taught": [
             "music theory"
         ],
@@ -416,7 +382,6 @@
         "name": "Salma Omar",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/salma-omar-image.jpeg",
         "bio": "Student at Green Hills Academy ",
-        "description": "My name is Salma Omar. I'm a Somali student currently doing the IB Diploma in Rwanda. My interests mainly revolve around psychology, law, current affairs, and anything along those lines, all stemming from my long term participation in MUN and debating in my current and previous schools. I'm always keen on sharing what I know and educating others so I look forward to this experience!\n\n",
         "classes-taught": [
             "psychology"
         ],
@@ -428,7 +393,6 @@
         "name": "Beth Pritchard",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/beth-pritchard-image.jpeg",
         "bio": "Upper sixth student currently at Ripon Grammar School",
-        "description": "Hi! I'm Beth Pritchard, an upper sixth student currently at Ripon Grammar School, where I study Fine Art, English Literature and Psychology, as well as being selected to become a pastoral prefect and secretary of Equality Society. I'm passionate about the world that people have made for each other, and especially how they express that through creative means. Developmental psychology is a particular interest of mine - understanding what makes people so unique through the ways that we are similar. In my free time, I play VX at a national level and enjoy painting. ",
         "classes-taught": [
             "psychology"
         ],
@@ -440,7 +404,6 @@
         "name": "Ananya Singh",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ananya-singh-image.jpeg",
         "bio": "Class of 2023 at Lexington High School, MA",
-        "description": "I'm in the class of 2023 at Lexington High School, MA. I have been attending Russian School of Math since 3rd grade. I play the piano and like art. I also like singing and have been in the Chorus Program since Middle School. I have experience as a CIT then a counselor at a summer camp for 4 years.",
         "classes-taught": [
             "music theory"
         ],
@@ -452,7 +415,6 @@
         "name": "Mimansa Bhargava",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mimansa-bhargava-image.jpeg",
         "bio": "Class of 2021 at Lexington High School",
-        "description": "I am Mimansa Bhargava and I am in the class of 2021 at Lexington High School. One of my greatest interests is in biology/medicine. I have participated in my school's science fair and competed at a state-level and run my school's medical club an environmental club. I am also part of the school's policy debate team and the Model UN team. Outside of school, I do karate where I am a black belt and teach classes. My other hobbies include dance and photography.  ",
         "classes-taught": [
             "genetics"
         ],
@@ -464,7 +426,6 @@
         "name": "Anika Jha",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/anika-jha-image.jpeg",
         "bio": "Class of 2028 in Bengaluru",
-        "description": "My name is Anika Jha. I am of Class of 2028 in Bengaluru, Karnataka, India. I LOVE science (any type) so much, I am super artistic, and have a 3 year old brother. I am passionate about the piano, theater, and SCHOOL!!! I qualified for the Johns Hopkins center with honors. I am a foodie (haha) and love books-a LOT. My favorite series are Harry Potter, Keeper Of The Lost Cities, Percy Jackson, Dork Diaries, and the book Restart.",
         "classes-taught": [
             "bsr"
         ],
@@ -476,7 +437,6 @@
         "name": "Ira Bagga",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ira-bagga-image.jpeg",
         "bio": "Class of 2027 at Jonas Clarke Middle School, Lexington High School",
-        "description": "Ira Bagga is of Class of 2027 at Jonas Clarke Middle School, Lexington High School in Lexington MA. She is a dancer, pianist, writes short stories, is a coder, `full-time doodler`, and an avid reader. She enjoys teaching people and sharing her knowledge, and loves to help out in her community and the environment! Reading has always been one of her favorite pastimes, and she also loves listening to audiobooks, which  take her into an entirely new world, which she also hopes to do when reading books to other people. Ira also has participated in many art competitions and loves being competitive! Even though every book is amazing, her absolute favorites are the Harry Potter series, the City of Ember (a novel) and the Wings of Fire series. ",
         "classes-taught": [
             "bsr"
         ],
@@ -488,7 +448,6 @@
         "name": "Ricky Kundu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ricky-kundu-image.jpeg",
         "bio": "Class of 2022 at Concord Academy",
-        "description": "Ricky Kundu is a student at Concord Academy whose main interests are in digital music production, something that evolved from a mere hobby to something that he is considering as his main interest for the foreseeable future. He has always been musically inclined, but really enjoys the work of digital music production. He has made beats and fully produced songs, and this summer he recently finished a course at the Harvard Summer School called `Technomusicology`, a 7 week course that covered different forms and ethics of digital music production. In addition, he attended Interlochen Arts Camp for music production last summer. He hopes to get others interested in this field as well.",
         "classes-taught": [
             "ableton"
         ],
@@ -500,7 +459,6 @@
         "name": "Ronak Wakhlu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ronak-wakhlu-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Hi! I'm Ronak Wakhlu, class of 2024 at Lexington High School. I have been playing chess since I was 4. I learned how to play chess from my Grandfather, with whom I still play on a daily basis. I enjoy playing Tennis and Minecraft with my friends. I have taught classes at `Young Engineers` and  volunteer for `We Care Charity` and `Vision-Aid`.",
         "classes-taught": [
             "chess"
         ],
@@ -512,7 +470,6 @@
         "name": "Derek Gao",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/derek-gao-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "I am in the class of 2024 at Lexington High School. I was on the Clarke Math Team all three years in middle school and placed top 25 in the state in eighth grade. I like playing soccer, doing math, coding, and playing the piano. I have taught math for elementary school students and really enjoyed it. I look forward to meeting everyone!",
         "classes-taught": [
             "amc8",
             "prealgebra"
@@ -525,7 +482,6 @@
         "name": "Ajay Raina",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ajay-raina-image.jpeg",
         "bio": "Class of 2024 at Acton-Boxborough Regional High School",
-        "description": "Hi I’m Ajay Raina, class of 2024 at Acton-Boxborough Regional High School. Math has been my passion since I was little, and I have taken many advanced math courses in algebra and geometry over the past years. One of my favorite pastimes is playing piano and I have been playing it since 3rd grade. I’m excited about introducing and teaching geometry to kids because it is an interesting topic with many connections to the real world.",
         "classes-taught": [
             "geometry"
         ],
@@ -537,7 +493,6 @@
         "name": "Katerina Lung",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/katerina-lung-image.jpeg",
         "bio": "Class of 2025 at Lexington High School",
-        "description": "I am going into 8th grade at Jonas Clarke Middle School in Massachusetts. I have been to a few robotics competitions and currently have a “patent pending” status on one of my inventions that water your plants for you if you forget. I also have been on a math team at my school many times and have tutored students for computer science and math. ",
         "classes-taught": [
             "counting"
         ],
@@ -549,7 +504,6 @@
         "name": "Stephanie Wan",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/stephanie-wan-image.jpeg",
         "bio": "Class of 2025 at Lexington High School",
-        "description": "Hi! I’m Stephanie Wan, an eighth grader in Lexington. I’m interested in math, science, art, and tennis. I’ve had previous experience helping with tutoring children in math. I’ve had many great teachers, and I can’t wait to share my knowledge with my students!",
         "classes-taught": [
             "counting"
         ],
@@ -561,7 +515,6 @@
         "name": "Tanishi Mishra",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/tanishi-mishra-image.jpeg",
         "bio": "Class of 2021 at Holliston High School",
-        "description": "Tanishi Mishra, class of 2021 at Holliston High School in Holliston MA. She is passionate about mathematics and coding. As the captain of her school's math team and founder of the computer science club, she has placed among the top individuals in competitions such as Girls in Math At Yale, USACO & ICW. Tanishi has previously done research at Tufts University and TA'd at KTByte",
         "classes-taught": [
             "number theory"
         ],
@@ -573,7 +526,6 @@
         "name": "Claire Pak",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/claire-pak-image.jpeg",
         "bio": "Class of 2022 at Lexington High School",
-        "description": "My name is Claire Pak and I am of class of 2022 at Lexington High School. I have studied Mandarin for over 13 years and prior to living in Lexington, my family lived in Hong Kong. Through this course, I hope to help more experienced students gain a deeper understanding of the language, while also building a strong foundation for students newer to Mandarin. I am also passionate about journalism and I am on the editorial board for the school newspaper, the Musket. Outside of academics, I enjoy both playing and teaching others how to play lacrosse. A fun fact about me  is that I am a third degree black belt in taekwondo. I am also a member of the school varsity indoor track team. I look forward to meeting everyone soon!",
         "classes-taught": [
             "mandarin",
             "journalism"
@@ -586,7 +538,6 @@
         "name": "Joshua Wu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/joshua-wu-image.jpeg",
         "bio": " Class of 2023 at Lexington High School",
-        "description": "Hi! I'm Joshua Wu, and I'm in Class of 2023 at Lexington High School. I'm interested in biology, chemistry and robotics. A couple of my friends and I are also working on preparing a robotics curriculum to help special needs kids. During my free time, I like reading, hang out with friends, sailing on the Charles and playing frisbee. In the future, I hope to pursue a career in medicine as I've always believed in helping others.",
         "classes-taught": [
             "biotech"
         ],
@@ -598,7 +549,6 @@
         "name": "Manish Mogan",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/manish-mogan-image.jpeg",
         "bio": "Class of 2022 at Obra D. Tompkins High School",
-        "description": "Manish Mogan is of class of 2022 at Obra D. Tompkins High School in Katy, Texas. Manish is the CFO of Project Advocation where he helps to manage campaigns, drives, and fundraisers for various educational initiatives. Furthermore, as a member of Force Club and National Honor Society, he is a passionate volunteer for Falcon Tutoring where he makes practice exercises, educational videos, and informational blogs for a multitude of AP classes. In addition to being involved in stem-based clubs including Technology Student Association, Science Fair Scholars, and TAME Inspirers Club, he enjoys playing tennis, learning about business, and writing computer programs. ",
         "classes-taught": [
             "descriptive stats"
         ],
@@ -610,7 +560,6 @@
         "name": "Sanjay Sivakumar",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/sanjay-sivakumar-image.jpeg",
         "bio": "Class of 2022 at Obra D. Tompkins High School",
-        "description": "Hello, World! My name is Sanjay Sivakumar, and I am of class of 2022 at Obra D. Tompkins High School in Katy, TX. My passion is programming, and I have been a computer programmer since 2014. I am well experienced in Java, Python, Web Development, and am currently learning Machine Learning. I also have experience in teaching and tutoring younger kids, as I am a member of the PEAC Tutoring club at our school, the founder of the TAME Inspirers club at our school which aims to tutor Title I kids in STEM, the CTO of Project Advocation (more information at www.projectadvocation.org), and a former tutor at TechUbuntu Tutoring. I'm really excited to be here and to work with you all!",
         "classes-taught": [
             "javascript"
         ],
@@ -622,7 +571,6 @@
         "name": "Nandini Sharma",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/nandini-sharma-image.jpeg",
         "bio": "Class of 2023 at Natick High School",
-        "description": "Class of 2023, I have built my interest in the field of neurology through self-paced research about psychology and the wiring of the human brain. Additionally, through the website-Blahtherapy, I have been able to take a close look to observe human behavior while assisting & comforting people through this anonymous chat service. Academically, my majors are honors in Algebra-2, Geometry & Chemistry. I am due to take a variety of math and science courses next year, including AP Chemistry, Honors Biology, Pre-calculus, and AP Statistics. I have been active participant in speech tournaments since last 4 years & have represented Natick in State tournament & have also represented Natick high at Harvard 2021 tournament in humorous interp. I can teach & train middle school students in competitive speech interpretation-Children Litreature, Prose & play Reading, humorous interp.",
         "classes-taught": [
             "speech interpret",
             "neuron functions"
@@ -635,7 +583,6 @@
         "name": "Pranav Akkaraju",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/pranav-akkaraju-image.jpeg",
         "bio": "Class of 2022 at Obra D. Tompkins High",
-        "description": "Hello, everyone! My name is Pranav Akkaraju, and I am currently in the class of 2022 at Obra D. Tompkins High School in Katy, TX. I am extremely passionate about the field of programming, and I have been programming since 2015. I am well experienced in Java, Python, HTML, CSS, JavaScript, PHP, and am currently learning both networking and machine learning. I have an extensive amount of experience in tutoring younger kids, as I am the Founder of the OTHS PEAC Tutoring club at Tompkins High School, the Co-founder of the TAME Inspirers club at Tompkins High School which provides STEM-based opportunities for Title I kids, the Co-founder of Project Advocation which provides educational initiatives for younger children through drives and fundraisers. In addition to being involved in several stem-based clubs, I enjoy playing chess and coding programs. I look forward to working with you all!",
         "classes-taught": [
             "php"
         ],
@@ -647,7 +594,6 @@
         "name": "Sarah Liu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/sarah-liu-image.jpeg",
         "bio": "Class of 2022 at Lexington High School",
-        "description": "Sarah Liu is class of 2022 at Lexington High School. Sarah is the captain of the Lexington High School robotics team, an editor of her school newspaper, and has received national accolades in visual arts. Sarah is excited to share her passions through HELM classes!",
         "classes-taught": [
             "robotics"
         ],
@@ -659,7 +605,6 @@
         "name": "Jaden Leung",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/jaden-leung-image.jpeg",
         "bio": "Class of 2023",
-        "description": "Hi Everyone! My name is Jaden, I am in LHS class of 2023 and I am very interested in the fields of computer science and robotics. I have studied AP CS in Java from my high school, competed in the FTC robotics, USACO, and ACSL competitions. I have been tutoring Scratch on a weekly basis since June 2020.",
         "classes-taught": [
             "scratch2"
         ],
@@ -671,7 +616,6 @@
         "name": "Deeya Khamesra",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/deeya-khamesra-image.jpeg",
         "bio": "Class of 2027 at William Diamond Middle School",
-        "description": "Deeya Khamesra is of Class of 2027 at William Diamond Middle School / Lexington High School in Lexington MA. She is a dancer, artist, black belt, and a passionate reader. Her favorite activities are Destination Imagination, cooking, skating, and gardening. She enjoys teaching people and sharing her knowledge, and loves to help out in the community! Deeya has been learning Hindi at Shishu Bharati: School of Languages and Culture of India. She will be entering Level 7 in the 2021-2022 school year. ",
         "classes-taught": [
             "beginner hindi"
         ],
@@ -683,7 +627,6 @@
         "name": "Cassidy Xu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/cassidy-xu-image.jpeg",
         "bio": " class of 2023 at Lexington High School",
-        "description": "Hey! I’m Cassidy and I'm in the class of 2023 at Lexington High School. I have been learning coding for over 4 years. I am a TA at KTBYTE and also the co-captain of my school’s computer science club. In addition, I have attended programming competitions including USACO, ACSL, and many hackathons. I have lots of teaching experience as I have tutored math and English in the past. Outside of computer science, I enjoy playing video games and traveling. ",
         "classes-taught": [
             "usaco"
         ],
@@ -695,7 +638,6 @@
         "name": "Vivian Wang",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/vivian-wang-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Hi! My name is Vivian Wang, and I'm in the class of 2024 at Lexington High School in Massachusetts. I'm a writer for the school newspaper, and I will also be serving on the editorial board of Lexspects, the cultural and political review. In 2020, I received a Scholastic National Gold Medal in flash fiction. Outside of school, I enjoy figure skating, drawing, and spending time with friends. I look forward for helping younger kids pursue their interests in reading and writing!",
         "classes-taught": [
             "english literature"
         ],
@@ -707,7 +649,6 @@
         "name": "Mahi Mirchandani",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mahi-mirchandani-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Hello! My name is Mahi, and I am in the class of 2024 at Lexington High School. I am currently an editor for Lexington's cultural and political review and a member of the yearbook club at Lexington High School. In addition, I help plan events at Cary Memorial Library to encourage literacy and community engagement. I have always been interested in reading and writing, so I am excited to educate younger students and help them develop a better understanding and appreciation of literature!",
         "classes-taught": [
             "english literature"
         ],
@@ -719,7 +660,6 @@
         "name": "Richard Chen",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/richard-chen-image.jpeg",
         "bio": "Class of 2022 at Choate Rosemary Hall",
-        "description": "My name is Richard Chen and I am in the class of 2022 at Choate Rosemary Hall who is interested in Political Science, History, and Chemistry. At school I play volleyball and play in the Symphony Orchestra. In my free time, I like to read and listen to music. ",
         "classes-taught": [
             "thinking about history"
         ],
@@ -731,7 +671,6 @@
         "name": "Ayan Nayak",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/ayan-nayak-image.jpeg",
         "bio": "Class of 2024 at Acton-Boxborough Regional High School.",
-        "description": "Hi, I'm Ayan Nayak, of class of 2024 at Acton-Boxborough Regional High School. I've always enjoyed computer science and physics, and I've been passionate about learning both since I was little. I've currently been pursuing my interest in physics through research at Harvard University where I will be spending the next year studying branched flow and condensed matter physics with the Heller Group. I also plan to use my experience to publish an article on it shortly. I also plan on participating in the qualifying exam for the USAPHO next year. This summer, I ran a hackathon called Hacktable that offered around 50,000 dollars in prizes and it was a great learning experience! Some other interests of mine are spending time with friends and listening to music.",
         "classes-taught": [
             "physics"
         ],
@@ -743,7 +682,6 @@
         "name": "Mahendra Advani",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mahendra-advani-image.jpeg",
         "bio": "Co-Founder of Constant Therapy",
-        "description": "Mahendra Advani is a seasoned technologist with expertise in building and managing distributed software systems. He is a co-founder of Constant Therapy Health, a telehealth company, and he architected the current version of the Constant Therapy product. He is currently responsible for designing the next-generation products including the a revolutionary AI at the core of Constant Therapy. He also oversees CT data science function and IP development activities.",
         "classes-taught": [],
         "roles": {
             "teacher": {},
@@ -756,7 +694,6 @@
         "name": "Dr Pracha Eamranond",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/dr-pracha-eamranond-image.jpeg",
         "bio": "CMO of Doctorpedia ",
-        "description": "Dr. Pracha Eamranond has dedicated his career to furthering the health of underprivileged populations. Dr. Eamranond currently leads Doctorpedia as Chief Medical Officer, bringing forward patient-centered education while engaging the healthcare world online. He also teaches the Practice of Medicine course at Harvard Medical School and cares for patients with complex psychosocial and medical issues at Brigham and Women's Hospital. He has consulted in healthcare innovation with IBM Watson Health. IDr. Eamranond has also chaired on multiple boards with a primary mission of helping underprivileged communities locally and internationally across Asia and South America.",
         "classes-taught": [],
         "roles": {
             "teacher": {},
@@ -769,7 +706,6 @@
         "name": "Prof Sanjay Sarma",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/prof-sanjay-sarma-image.jpeg",
         "bio": "Co-Founder of Auto-ID Center at MIT, Proffesor at MIT",
-        "description": "Proffesor Sanjay Sarma co-founded the Auto-ID Center at MIT and developed many of the key technologies behind the EPC suite of RFID standards now used worldwide. He was also the the founder and CTO of OATSystems, which was acquired by Checkpoint Systems (NYSE: CKP) in 2008. He serves on the boards of GS1, EPCglobal, and several startup companies including Senaya and ESSESS. Dr. Sarma received his Bachelors from the Indian Institute of Technology, his Masters from Carnegie Mellon University, and his PhD from the University of California at Berkeley. Sarma also worked at Schlumberger Oilfield Services in Aberdeen, UK, and at the Lawrence Berkeley Laboratories in Berkeley, California.",
         "classes-taught": [],
         "roles": {
             "teacher": {},
@@ -782,7 +718,6 @@
         "name": "Leo Qian",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/leo-qian-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Sophomore at Lexington High School. Interested in technology and statistics, and part of the Outreach and Fundraising division at HELM.",
         "classes-taught": [],
         "roles": {
             "teacher": {}
@@ -792,7 +727,6 @@
         "name": "Mayari Rajamani",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/mayari-rajamani-image.jpeg",
         "bio": "Class of 2024 at Lexington High School",
-        "description": "Hi! My name is Mayari Rajamani, and I am in the class of 2024 at Lexington High School. I am part of the Outreach and Fundraising division at HELM. At school I play softball and am involved with many clubs. Outside of school, I love to dance which I have since the age of 2.5 and am a teacher at my dance school. I am also very passionate about singing which I have pursued since I was 4. I am interested in the medical field and hope to pursue a career in it.",
         "classes-taught": [],
         "roles": {
             "teacher": {}
@@ -802,7 +736,6 @@
         "name": "Taili Gao",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/taili-gao-image.jpeg",
         "bio": "Class of 2025 at Lexington High School",
-        "description": "Hi! I'm Taili Gao and I'm in the class of 2025 at Lexington High School in Lexington, MA. I'm interested in biology, earth science, and math. I competed in Science Olympiad and started the American Cancer Society Relay For Life club at Lexington High School. In my free time, I like to draw, play outside, and watch TV. ",
         "classes-taught": [
             "genetic diseases"
         ],
@@ -814,7 +747,6 @@
         "name": "Rachel Tadeu",
         "image": "https://helm-teacher-images.s3.us-east-1.amazonaws.com/rachel-tadeu-image.jpeg",
         "bio": "Lesley University 2019",
-        "description": "Rachel Tadeu is an art teacher at Lexington High School with a Masters in Art Education from Lesley University. Rachel enjoys teaching and working with others to help achieve their dreams and projects. ",
         "classes-taught": [],
         "roles": {
             "teacher": {},
